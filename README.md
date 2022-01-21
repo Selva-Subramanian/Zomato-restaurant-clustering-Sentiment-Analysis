@@ -1,2 +1,2 @@
 # Zomato-restaurant-clustering-Sentiment-Analysis
-Segmentation using kmeans &amp; hierarchical clustering 
+Clustering using kmeans &amp; hierarchical clustering and Sentiment Analysis on reviews
